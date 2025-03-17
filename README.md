@@ -40,6 +40,11 @@ Recherche des patients
 Supprimer un patient
 ![img_11.png](images/img_11.png)
 
+### Validation des formulaires
+
+Ajouter un nouveau patient
+![img_13.png](images/img_13.png)
+
 Modifier les infos d'un patient
 ![img_12.png](images/img_12.png)
 

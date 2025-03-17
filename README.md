@@ -27,3 +27,17 @@
 ![img_7.png](images/img_7.png)
 
 
+### Liste des Patients
+Affichage des patients
+![img_8.png](images/img_8.png)
+
+Faire la pagination
+![img_9.png](images/img_9.png)
+
+Recherche des patients
+![img_10.png](images/img_10.png)
+
+Supprimer un patient
+![img_11.png](images/img_11.png)
+
+

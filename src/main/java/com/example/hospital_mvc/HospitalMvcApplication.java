@@ -24,6 +24,7 @@ public class HospitalMvcApplication implements CommandLineRunner {
         patientRepository.save(new Patient(null, "Mohammed", new Date(), false, 34));
         patientRepository.save(new Patient(null, "Hanane", new Date(), false, 4321));
         patientRepository.save(new Patient(null, "Imane", new Date(), true, 36));
+        patientRepository.save(new Patient(null, "Yassine", new Date(), false, 100));
     }
 
 

@@ -2,6 +2,7 @@ package com.example.hospital_mvc.web;
 
 import com.example.hospital_mvc.entities.Patient;
 import com.example.hospital_mvc.repositories.PatientRepository;
+import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -12,7 +13,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import javax.validation.Valid;
+
 
 @Controller
 @AllArgsConstructor

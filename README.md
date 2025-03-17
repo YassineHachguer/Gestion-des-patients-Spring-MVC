@@ -40,4 +40,7 @@ Recherche des patients
 Supprimer un patient
 ![img_11.png](images/img_11.png)
 
+Modifier les infos d'un patient
+![img_12.png](images/img_12.png)
+
 
